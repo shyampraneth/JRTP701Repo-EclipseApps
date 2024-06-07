@@ -1,9 +1,6 @@
 package com.nt.service;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 	public int sum(int x,int y) {
